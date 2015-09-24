@@ -8,7 +8,17 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
-div {height:50px; width:120px; border-color: #6495ED; background-color:#BCD2EE;border-style:dashed; border-width:2px; border-radius:5px; margin:auto;text-align:center;} 
+div {
+  height:30px; 
+  width:120px; 
+  border-color: #6495ED; 
+  background-color:#BCD2EE;
+  border-style:none; 
+  border-width:2px; 
+  border-radius:5px; 
+  margin:auto;
+  text-align:center;
+} 
 a {text-decoration:none;color:#197d8b;font-family:serif;}
 a {
   color: #1e6bb8;
